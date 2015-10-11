@@ -11,6 +11,7 @@ use Data::Object::Role;
 use Data::Object::Library;
 use Data::Object::Signatures;
 use Scalar::Util;
+use Function::Parameters;
 
 # VERSION
 

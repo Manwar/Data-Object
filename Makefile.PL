@@ -20,7 +20,8 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Moo" => "2.000001",
     "Type::Tiny" => "1.000005",
-    "Type::Tiny::Signatures" => "0.05"
+    "Type::Tiny::Signatures" => "0.05",
+    "Function::Parameters" => "1.0605",
   },
   "VERSION" => "0.58",
   "test" => {
@@ -33,7 +34,8 @@ my %FallbackPrereqs = (
   "ExtUtils::MakeMaker" => 0,
   "Moo" => "2.000001",
   "Type::Tiny" => "1.000005",
-  "Type::Tiny::Signatures" => "0.05"
+  "Type::Tiny::Signatures" => "0.05",
+  "Function::Parameters" => "1.0605",
 );
 
 
